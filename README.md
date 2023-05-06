@@ -62,6 +62,8 @@ System: Windows 11 version 10.0 running on amd64; Cp1252; es_EC (nb)
 
 ![image](https://user-images.githubusercontent.com/132758488/236633434-eafd6eb3-09fd-4bad-9bfa-b92ad147dd8a.png)
 
+To know more about weka Kmeans see: https://www.tabnine.com/code/java/classes/weka.clusterers.SimpleKMeans
+
 - See the Cargar ontologia botton, using FERO.owl
 
 ![image](https://user-images.githubusercontent.com/132758488/236633517-c1317481-d6ea-412a-8cb0-15fcde9f5766.png)
