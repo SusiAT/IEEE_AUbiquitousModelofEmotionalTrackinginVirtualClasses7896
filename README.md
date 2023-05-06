@@ -1,7 +1,8 @@
 # IEEE_AUbiquitousModelofEmotionalTrackinginVirtualClasses7896
 IEEE_A Ubiquitous Model of Emotional Tracking in Virtual Classes: From Simple Emotions to Learning Action Tendency_/7896
 
-<img width="832" alt="graphical_abstract" src="https://user-images.githubusercontent.com/132758488/236627184-e7dc0c9e-3b74-4ed4-b9f4-212bba559faa.png">
+![graphical_abstract](https://user-images.githubusercontent.com/132758488/236640949-80d0cd29-5176-4ddd-ba7e-63ddb4cc057e.png)
+
 Resources and extra documentation for the manuscript "A Ubiquitous Model of Emotional Tracking in Virtual Classes: From Simple Emotions to Learning Action Tendency" published in IEEE Latin America Transactions. The project hierarchy and folders description is as follows
 
 
