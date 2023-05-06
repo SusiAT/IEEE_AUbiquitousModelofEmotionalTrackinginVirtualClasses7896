@@ -9,7 +9,7 @@ Resources and extra documentation for the manuscript "A Ubiquitous Model of Emot
 ![image](https://user-images.githubusercontent.com/132758488/236630757-f8844bc0-c6c1-4483-aaba-7024a82818fb.png)
 
 
-**Emotion Recognition Master\detector\src**: Code that allows the execution of the facial emotion identification software. The quality of the video must be verified, and it must have the name of the Profesor. 
+**Emotion Recognition Master\detector\src**: Code that allows the execution of the facial emotion identification software. The quality of the video must be verified, and it must have the name of the Profesor for all videos (students or profesor). 
 
 **Real_Time_Video**: is a principal code. 
 
