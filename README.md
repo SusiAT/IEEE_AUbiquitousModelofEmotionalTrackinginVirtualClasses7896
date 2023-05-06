@@ -6,6 +6,7 @@ Resources and extra documentation for the manuscript "A Ubiquitous Model of Emot
 
 
 **We work with**: Base software used to record the human face and mixed emotions and get the probabilities of these emotions. (https://github.com/omar-aymen/Emotion-recognition#p1).
+
 ![image](https://user-images.githubusercontent.com/132758488/236630757-f8844bc0-c6c1-4483-aaba-7024a82818fb.png)
 
 
