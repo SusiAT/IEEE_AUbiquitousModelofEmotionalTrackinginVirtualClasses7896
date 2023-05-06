@@ -5,11 +5,11 @@ IEEE_A Ubiquitous Model of Emotional Tracking in Virtual Classes: From Simple Em
 Resources and extra documentation for the manuscript "A Ubiquitous Model of Emotional Tracking in Virtual Classes: From Simple Emotions to Learning Action Tendency" published in IEEE Latin America Transactions. The project hierarchy and folders description is as follows
 
 
-**Emotion Recognition Master**: Base software is used to record the human face and mixed emotions and get the probabilities of these emotions. (https://github.com/omar-aymen/Emotion-recognition#p1).
+**We work with**: Base software used to record the human face and mixed emotions and get the probabilities of these emotions. (https://github.com/omar-aymen/Emotion-recognition#p1).
 ![image](https://user-images.githubusercontent.com/132758488/236630757-f8844bc0-c6c1-4483-aaba-7024a82818fb.png)
 
 
-**Emotion Recognition Master\detector\src**: Code that allows the execution of the facial emotion identification software. The quality of the video must be verified, and it must have the name of the Profesor for all videos (students or profesor). 
+**\detector\src**: Code that allows the execution of the facial emotion identification software. The quality of the video must be verified, and it must have the name of the Profesor for all videos (students or profesor). 
 
 **Real_Time_Video**: is a principal code. 
 
@@ -43,6 +43,12 @@ System: Windows 11 version 10.0 running on amd64; Cp1252; es_EC (nb)
 ![image](https://user-images.githubusercontent.com/132758488/236632596-13e6744c-a7cf-48db-893d-d00990a84beb.png) ![image](https://user-images.githubusercontent.com/132758488/236632687-27ce6fdd-db6d-49a9-8ad5-479ba85dcc2b.png)
 
 **INSTRUCTIONS FOR RUNNING THE GUI**
+
+- Save detector and emociones in same directory:
+
+![image](https://user-images.githubusercontent.com/132758488/236634884-f9e3126d-9e8c-44e1-8013-a3fdbfc18fb6.png)
+
+- Open the project in Netbeans
 
 - Work with emotions_2.java using Netbeans
 
