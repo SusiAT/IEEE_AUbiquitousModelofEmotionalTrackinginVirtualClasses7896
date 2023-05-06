@@ -76,6 +76,8 @@ System: Windows 11 version 10.0 running on amd64; Cp1252; es_EC (nb)
 
 ![image](https://user-images.githubusercontent.com/132758488/236633709-c88ea5fa-68b0-44db-99b6-02075c32c119.png)
 
+We have restricted videos with 800Mb or more. If you need our videos, please send message to sa.arias@uta.edu.ec 
+
 
 
 
