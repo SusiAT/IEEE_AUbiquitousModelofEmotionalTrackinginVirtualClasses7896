@@ -15,8 +15,6 @@ Resources and extra documentation for the manuscript "A Ubiquitous Model of Emot
 
 **Emotions.csv** has the facial emotions. 
 
-**Video Folder** has video examples.
-
 ![image](https://user-images.githubusercontent.com/132758488/236630861-23c0892b-7621-4600-8753-ce4e95c226f6.png)
 
 **Emociones**: Code that receives the emotions and their percentages as input, executes the Kmeans, and works with the ontology for the action Tendency inference.
