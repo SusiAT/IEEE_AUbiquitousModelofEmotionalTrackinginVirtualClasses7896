@@ -1,0 +1,7 @@
+Cluster: 1 Emoción: surprised Valor: 27.552 Instancias:5 Clasificación:MENOR Centroides:[ 8.782  0.238 23.364  5.638  7.012 27.552 27.414]
+Cluster: 2 Emoción: neutral Valor: 25.467873303167416 Instancias:442 Clasificación:MAYOR Centroides:[21.28235294  0.20895928 18.56300905 24.1138914   7.63807692  2.72590498
+ 25.4678733 ]
+Cluster: 3 Emoción: neutral Valor: 36.703744918699186 Instancias:1968 Clasificación:MAYOR Centroides:[18.40034045  0.04804878 19.45565549 15.02730183  7.04914634  3.3157876
+ 36.70374492]
+Cluster: 4 Emoción: neutral Valor: 51.530447761194026 Instancias:335 Clasificación:MENOR Centroides:[1.06348955e+01 3.04776119e-02 1.73391940e+01 1.12435821e+01
+ 4.11874627e+00 5.10211940e+00 5.15304478e+01]
